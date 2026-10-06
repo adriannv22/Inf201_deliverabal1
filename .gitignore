@@ -219,4 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-Forst_Met_ID.txt
+Frost_Met_ID.txt
+
+.Frost_Met_ID.txt
